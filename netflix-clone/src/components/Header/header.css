@@ -9,10 +9,13 @@
     /* background-color: transparent; */
     height: 10vh;
     color: white;
+    font-weight: bolder;
     transition:all 0.5s;
     transition-timing-function: ease-in;
     z-index: 1;
      /* background-color: red;  */
+     font-size: 25px;
+    
 }
 .nav__black{
     background-color:  rgb(20, 20, 20);
@@ -23,6 +26,10 @@
     justify-content: space-between;
     align-items: center;
     /* background-color: yellow; */
+     max-width: 1500px; 
+    margin-inline: auto;
+    ;
+    
 }
 .header_left ul{
     width: 140%;
@@ -32,6 +39,7 @@
     list-style: none;
     cursor: pointer;
     /* background-color: lightblue; */
+  
 }
 .header_right ul{
     width: 150%;
@@ -40,4 +48,5 @@
     list-style: none;
     cursor: pointer;
     /* background-color: lightgreen; */
+   
 }

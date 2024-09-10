@@ -8,11 +8,13 @@
   --bg-color:#111;
   --primary-color: #ffffff;
   --secondary-color: #e50914;
+  /* font-weight: 400; */
 }
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  
 }
 body {
   background: #111;
